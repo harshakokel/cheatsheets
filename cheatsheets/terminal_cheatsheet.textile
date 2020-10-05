@@ -1,6 +1,7 @@
 h3. SHORTCUTS
 
 Adapted from Matt Soria's cheatsheet (https://gist.github.com/poopsplat/7195274)
+Some more shortcuts (https://www.bigsmoke.us/readline/shortcuts)
 
 {background:#ddd}. |_. Key/Command |_. Description |
 | Tab | Auto-complete files and folder names |
