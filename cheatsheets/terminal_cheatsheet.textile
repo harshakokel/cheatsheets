@@ -69,7 +69,11 @@ h3. FILE MANAGEMENT
 | cp [file] [newfile] | Copy file to file |
 | cp [file] [dir] | Copy file to directory |
 | mv [file] [new filename] | Move/Rename, e.g. mv -v [file] [dir] |
+| rm !([file]) | remove all except one|
 
+h3. vim shortcuts
+
+| shift + delete | delete from cursor location to end of file |
 
 h3. DIRECTORY MANAGEMENT
 
