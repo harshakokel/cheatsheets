@@ -73,7 +73,7 @@ h3. FILE MANAGEMENT
 
 h3. vim shortcuts
 
-| shift + delete | delete from cursor location to end of file |
+| shift + d | delete from cursor location to end of file |
 
 h3. DIRECTORY MANAGEMENT
 
