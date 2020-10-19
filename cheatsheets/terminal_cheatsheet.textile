@@ -2,6 +2,7 @@ h3. SHORTCUTS
 
 Adapted from Matt Soria's cheatsheet (https://gist.github.com/poopsplat/7195274)
 Some more shortcuts (https://www.bigsmoke.us/readline/shortcuts)
+Bash cheatsheat (https://shellmagic.xyz)
 
 {background:#ddd}. |_. Key/Command |_. Description |
 | Tab | Auto-complete files and folder names |
@@ -83,6 +84,10 @@ h3. DIRECTORY MANAGEMENT
 | rm -R [dir] | Remove directory and contents |
  
 
+h3. SHELL COMMANDS
+
+| tr '[:lower:]' '[:upper:]' | translate file characters lower to upper case |
+| tr -d 'char-to-delete' | deletes given characters from file|
 
 h3. PIPES - Allows to combine multiple commands that generate output
 
