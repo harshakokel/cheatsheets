@@ -74,10 +74,16 @@ h3. FILE MANAGEMENT
 
 h3. vim shortcuts
 
-| shift + d | delete from cursor location to end of file (in esc mode)|
-| $ | move cursor to the end of line (in esc mode)|
-| A | move cursor to the end of line and enter insert mode (in esc mode)|
-| I | move cursor to the front of line and enter insert mode (in esc mode)|
+Most of these shortcuts are for command mode.
+
+| shift + d | delete from cursor location to end of file|
+| $ | move cursor to the end of the line |
+| A | move cursor to the end of the line and enter insert mode|
+| ^ | move cursor to the first non-blank character of the line|
+| I | move cursor to the first non-blank character of the line and enter insert mode|
+| 0 | goes to the start of line (including whitespace)|
+
+more here (https://vim.rtorr.com)
 
 h3. DIRECTORY MANAGEMENT
 
