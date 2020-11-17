@@ -43,6 +43,7 @@ h3. CORE COMMANDS
 | pico	[file] | Opens the Terminal it's editor |
 | q | Exit |
 | clear | Clear screen |
+| nohup [script]  > output.log 2>&1 & | Run script in background and push the logs to a file |
 
 
 h3. COMMAND HISTORY
