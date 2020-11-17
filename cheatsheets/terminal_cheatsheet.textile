@@ -117,3 +117,12 @@ h3. HELP
 | reset | Resets the terminal display |
 | man [command] | Show the help for 'command' |
 | whatis [command] | Gives a one-line description of 'command' |
+
+h3. USER MANAGEMENT
+
+On Centos
+
+| adduser username | Add a user |
+| passwd username | Seetting password for new user |
+| userdel username | Delete user |
+| userdel -r username | Delete user and home directory |
