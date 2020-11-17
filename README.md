@@ -8,7 +8,7 @@ Collecting most frequently used cheatsheets here. Can also be found at http://ha
 * [GitHub terminal commands](./cheatsheets/github_cheatsheet.md)
 * [GitHub commit emoji](./cheatsheets/github_emoji_cheatsheet.md)
 * [ssh commands](./cheatsheets/ssh_cheatsheat.org)
-* [terminal shortcuts](./cheatsheets/terminal_cheatsheet.textile)
+* [terminal](./cheatsheets/terminal_cheatsheet.textile)
 * [ML Cheatsheet used for qualifier prep](https://harshakokel.com/pdf/ML_QE_Cheatsheet.pdf)
 * [ML Algorithm](http://harshakokel.com/pdf/ML_cheatsheet.pdf)
 * [Prolog Cheatsheet](https://github.com/alhassy/PrologCheatSheet/blob/master/README.md)
