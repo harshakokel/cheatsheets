@@ -85,6 +85,9 @@ Most of these shortcuts are for command mode.
 | ^ | move cursor to the first non-blank character of the line|
 | I | move cursor to the first non-blank character of the line and enter insert mode|
 | 0 | goes to the start of line (including whitespace)|
+| yy | yank a line i.e. copy a line |
+| p | paste |
+| yy and then p | to duplicate a line |
 
 more here (https://vim.rtorr.com)
 
