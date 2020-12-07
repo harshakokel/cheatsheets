@@ -19,6 +19,19 @@ The rule of thumb is: When you contrast two things, use a comma. “Whereas” i
 > :white_check_mark: I am very tall, whereas my wife is quite short.  
 :no_entry_sign:  I am very tall whereas my wife is quite short.
  
+ [more](https://jakubmarian.com/comma-before-whereas-while-and-although/)
  
- 
- https://jakubmarian.com/comma-before-whereas-while-and-although/
+ * Em dash (---) vs En dash (--)
+
+The en dash (--) is slightly wider than the hyphen (-) but narrower than the em dash (---). It is used to **indicate a range or connections**.
+The em dash (---) is twice as long as the en dash. It is in place of a comma, parenthesis, or colon to enhance readability or emphasize the conclusion of a sentence. It can also be used to indicate sudden change in context.
+
+> e.g.:   
+  Em dash: We could not wait to meet them --- we had missed them so much.  
+  Em dash: I need to go to the supermarket to buy 3 things --- toothpaste, shampoo, and soap.   
+  Em dash: I had a great vacation in Bali --- oh! Is that your dog? He’s so cute!  
+  En dash: You could choose 2 numbers from 1--50. 
+  En dash: The red team won 3--1 in this match.  
+  En dash: Europe--USA is a long flight.  
+  
+  [more](https://7esl.com/em-dash-en-dash/)
