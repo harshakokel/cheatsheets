@@ -86,8 +86,14 @@ Most of these shortcuts are for command mode.
 | I | move cursor to the first non-blank character of the line and enter insert mode|
 | 0 | goes to the start of line (including whitespace)|
 | yy | yank a line i.e. copy a line |
-| p | paste |
+| p | paste after line |
+| P | paste before line |
 | yy and then p | to duplicate a line |
+| dd | cut a line |
+| k | move cursor up |
+| j | move cursor down |
+| ddkP | to move a line up |
+| ddjP | to move a line down |
 
 more here (https://vim.rtorr.com)
 
