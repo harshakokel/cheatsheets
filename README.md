@@ -1,6 +1,6 @@
 # Harsha's Cheatsheets Collection
 
-Collecting most frequently used cheatsheets here. Can also be found at http://harshakokel.com/cheatsheets.html
+Collecting most frequently used cheatsheets here. 
 
 
 * [HTML Codes](https://brajeshwar.github.io/entities/), more [here](https://www.w3schools.com/charsets/ref_utf_greek.asp)
