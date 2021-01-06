@@ -46,6 +46,8 @@ h3. CORE COMMANDS
 | q | Exit |
 | clear | Clear screen |
 | nohup [script]  > output.log 2>&1 & | Run script in background and push the logs to a file |
+| less [file]| to open the file |
+| less +G [file] | to open the file with last line in focus |
 
 
 h3. COMMAND HISTORY
