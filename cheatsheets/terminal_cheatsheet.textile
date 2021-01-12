@@ -135,7 +135,9 @@ h3. USER MANAGEMENT
 On Centos
 
 | adduser username | Add a user |
-| passwd username | Seetting password for new user |
+| useradd -G group username | Add a new user to group |
+| passwd username | Setting password for new user |
+| usermod -aG group username | Add existing user to group |
 | userdel username | Delete user |
 | userdel -r username | Delete user and home directory |
 | du -shc /home/* | Check disk space for each user |
