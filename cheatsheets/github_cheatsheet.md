@@ -23,6 +23,7 @@ git branch -d [branch_name] | Delete local branch
 git branch -D [branch_name] | The same, but force
 git push origin --delete [branch_name] | Delete remote branch in remote repository
 git init | Initialize current directory as a new empty git repository
+git remote set-url [remote_name] [remote_url] | Change remote
 
 Note: you interact with remote repository only in case of 'clone', 'fetch', 'pull' or 'push', all other operations are local and don't need network connection
 
