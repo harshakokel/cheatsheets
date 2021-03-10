@@ -24,6 +24,8 @@ git branch -D [branch_name] | The same, but force
 git push origin --delete [branch_name] | Delete remote branch in remote repository
 git init | Initialize current directory as a new empty git repository
 git remote set-url [remote_name] [remote_url] | Change remote
+git config --global credential.helper store | To update the password on terminal, use this command before git pull
+
 
 Note: you interact with remote repository only in case of 'clone', 'fetch', 'pull' or 'push', all other operations are local and don't need network connection
 
