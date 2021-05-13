@@ -46,3 +46,4 @@
   
 1. Pronunciation guide [https://howjsay.com](https://howjsay.com)
 2. Tips by [The Indians Abroad](http://www.theindiansabroad.com/2009/08/10-tips-english-pronunciation-accent-improvement/)
+3. Littman's [style guide](http://cs.brown.edu/~mlittman/etc/style.html)
