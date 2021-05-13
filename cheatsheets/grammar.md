@@ -35,9 +35,9 @@
       Em dash: We could not wait to meet them --- we had missed them so much.  
       Em dash: I need to go to the supermarket to buy 3 things --- toothpaste, shampoo, and soap.   
       Em dash: I had a great vacation in Bali --- oh! Is that your dog? He’s so cute!  
-      Em dash: Please call my supervisor --- John Wick --- on Friday.
-      En dash: You could choose 2 numbers from 1--50. 
-      En dash: The red team won 3--1 in this match.  
+      Em dash: Please call my supervisor --- John Wick --- on Friday.  
+      En dash: You could choose 2 numbers from 1--50.  
+      En dash: The red team won 3--1 in this match.   
       En dash: Europe--USA is a long flight.  
 
    [more](https://7esl.com/em-dash-en-dash/)
