@@ -41,3 +41,8 @@
       En dash: Europe--USA is a long flight.  
 
    [more](https://7esl.com/em-dash-en-dash/)
+   
+ # References
+  
+1. Pronunciation guide [https://howjsay.com](https://howjsay.com)
+2. Tips by [The Indians Abroad](http://www.theindiansabroad.com/2009/08/10-tips-english-pronunciation-accent-improvement/)
