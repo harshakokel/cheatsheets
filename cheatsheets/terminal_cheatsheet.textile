@@ -132,10 +132,13 @@ h3. HELP
 
 h3. USER MANAGEMENT
 
-On Centos
+
 
 | adduser username | Add a user |
 | useradd -G group username | Add a new user to group |
+| useradd -G sudo username | Add a new user to  sudoer on ubuntu|
+| useradd -G wheel username | Add a new user to  sudoer on Centos|
+| sudo mkhomedir_helper username | Create home directory|
 | passwd username | Setting password for new user |
 | usermod -aG group username | Add existing user to group |
 | userdel username | Delete user |
