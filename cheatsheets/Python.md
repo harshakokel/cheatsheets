@@ -27,6 +27,10 @@ conda config --get <key>
 conda create --name <new_env_name> [package1 package2 ...]
 conda create --name <new_env_name> [package==m.n]
 conda create --name <new_env_name> --clone <existing_env_name>
+conda create -n my_env python=3.X
+ 
+# Add bin folder to existing conda env
+conda install -n my_env python=3.X
 
 # activate environment
 conda activate <env_name>
