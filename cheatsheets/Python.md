@@ -68,3 +68,6 @@ dependencies:
         - package3>=m.*,<p.*
         - package4==m.n
 ```
+## Decorators
+
+* [Primer on python decorators](https://realpython.com/primer-on-python-decorators/)
