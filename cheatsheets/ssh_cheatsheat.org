@@ -13,7 +13,8 @@ Adapted from Denny Zhang's cheatsheet (https://cheatsheet.dennyzhang.com/cheatsh
 | ssh with 5000 port forwarding           | =ssh -L 5000:localhost:5000 <ssh_host>=                                                  |
 | ssh setup without login password        | =cat ~/.ssh/id_rsa.pub <pipe> ssh <username>@<ssh_host> 'cat >> ~/.ssh/authorized_keys'<end>= |
 | copy folder from server                 | =scp -r <ssh-host>:<folder-location ./=                                                  |
-| ssh with graphics forwarding            | =ssh -X <ssh_host>=
+| copy folder to server                   | =scp -r ./folder/location <ssh-host>:<folder-location=                                   |
+| ssh with graphics forwarding            | =ssh -X <ssh_host>=                                                                      |
 
 
 ** SSH general
