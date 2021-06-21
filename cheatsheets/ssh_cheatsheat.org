@@ -101,7 +101,7 @@ cat ~/.ssh/id_rsa.pub | ssh $username@$ssh_hostk "cat - >> ~/.ssh/authorized_key
 ssh $username@$ssh_hostk "cat ~/.ssh/authorized_keys"
 #+END_SRC
 
-- SSH Config file
+- SSH Config file for alias of server (~/.ssh/config)
 #+BEGIN_EXAMPLE
 Host sandbox
      HostName 192.168.50.10
