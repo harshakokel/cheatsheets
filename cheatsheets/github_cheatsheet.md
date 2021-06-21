@@ -83,8 +83,9 @@ git rm [file_name] | Remove committed file
 git mv [file_name] [new_file_name] | Move/rename committed file
 git checkout [commit_hash] [file_name] | Restore file state from the specific commit
 git checkout [file_name] | The same but from last commit, i.e. undo changes
-git stash | TO DESCRIBE
-git stash pop | TO DESCRIBE
+git stash | Save all the current changes to stash file
+git stash branch [branch name] | Applies lastest stash to a new branch 
+git stash pop | Applies latest stash to the current branch
 git rev-parse --show-toplevel | Show root folder of current repository 
 
 
