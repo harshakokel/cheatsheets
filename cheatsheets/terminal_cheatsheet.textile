@@ -76,6 +76,7 @@ h3. FILE MANAGEMENT
 | cp [file] [dir] | Copy file to directory |
 | mv [file] [new filename] | Move/Rename, e.g. mv -v [file] [dir] |
 | rm !([file]) | remove all except one|
+| chmod -R 777 [dir]; rm -r [dir] | If getting "descend into write-protected directory" error |
 
 h3. vim shortcuts
 
