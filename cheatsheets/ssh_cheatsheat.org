@@ -14,6 +14,7 @@ Adapted from Denny Zhang's cheatsheet (https://cheatsheet.dennyzhang.com/cheatsh
 | ssh setup without login password        | =cat ~/.ssh/id_rsa.pub <pipe> ssh <username>@<ssh_host> 'cat >> ~/.ssh/authorized_keys'<end>= |
 | copy folder from server                 | =scp -r <ssh-host>:<folder-location ./=                                                  |
 | copy folder to server                   | =scp -r ./folder/location <ssh-host>:<folder-location=                                   |
+| copy multiple folder to server          | =scp -r ./folder/location/1 ./folder/location/2 <ssh-host>:<folder-location=             |                                               |
 | ssh with graphics forwarding            | =ssh -X <ssh_host>=                                                                      |
 
 
