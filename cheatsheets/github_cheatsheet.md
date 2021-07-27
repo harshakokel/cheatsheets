@@ -210,6 +210,26 @@ elif [[ $leftCount == 0 && $rightCount > 0 ]]; then echo "so left is parent for 
 else echo "so they don't refer one another";fi
 ```
 
+### Git duplicate a repo
+
+
+1. Create a bare clone of the repository.
+```
+$ git clone --bare https://github.com/exampleuser/old-repository.git
+```
+
+2. Mirror-push to the new repository.
+```
+$ cd old-repository
+$ git push --mirror https://github.com/exampleuser/new-repository.git
+```
+
+3. Remove the temporary local repository you created earlier.
+```
+$ cd ..
+$ rm -rf old-repository
+```
+
 ## git tricks ##
 
 Command | Description
