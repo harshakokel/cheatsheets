@@ -49,6 +49,8 @@ h3. CORE COMMANDS
 | less [file]| to open the file |
 | less +G [file] | to open the file with last line in focus |
 | echo $? | Print the last value returned |
+| find <parent folder>/ -name 'A_[0-9]*.txt' |  to find all files with given regex |
+| find <parent folder>/ -name 'A_[0-9]*.txt' -delete | to delete all files with given regex |
 
 h3. COMMAND HISTORY
 
