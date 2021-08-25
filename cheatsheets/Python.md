@@ -1,3 +1,55 @@
+## Plot Cheatsheet
+
+Truncate axis 
+```python
+plt.ylim(1, 2)
+plt.xlim(0, 1000)
+```
+
+Format axis
+```python
+from matplotlib.ticker import FuncFormatter
+ax.xaxis.set_major_formatter(FuncFormatter(lambda x, pos: f'{(x ) / 10 ** 5:,.0f}x$10^5$'))
+```
+
+seaborn color 
+```
+Black = "#34495e"
+Blue = "#3592F0"
+GREEN = "#4BAD6C"
+RED = "#e74c3c"
+Violet = "#B148F7"
+yellow = "#DEBE1F"
+sns.color_palette([RED, GREEN, BLUE, BLACK])
+```
+
+custom legend
+```
+plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, title_fontsize=14)
+```
+
+axis and title label and font size
+```
+ax.set_title(title, fontsize=20)
+plt.xlabel(xlabel, fontsize=16)
+plt.ylabel(ylabel, fontsize=16)
+ax.set_xticklabels(ax.get_xticks(), fontdict={'fontsize': 16})
+ax.set_yticklabels(ax.get_yticks(), fontdict={'fontsize': 16})
+```
+
+resize the image
+```
+plt.tight_layout()
+```
+
+sns set background
+```
+sns.set(font_scale = 2, style="white" )
+```
+
+
+
+
 ## conda cheatsheet
 
 From [bitsurgeon](https://gist.github.com/bitsurgeon/7a2487a0ba03e37f2cc4fe1f2f2b38fb)
