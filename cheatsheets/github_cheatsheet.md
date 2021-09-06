@@ -9,6 +9,7 @@ Command | Description
 git clone [url] | Download remote repository and checkout master branch
 git checkout --track origin/[branch_name] | Create local branch as a copy of existing remote branch <br> (and set as upstream)
 git checkout -b [branch_name] | Create new local branch and switch to it
+git push --set-upstream origin [branch_name] | Push the new branch to remote origin
 git checkout [branch_name] | Switch to another local branch
 git status -sb | Show current branch, changed files and ahead/behind status
 git commit -m '[message]' | Create new local commit from index
