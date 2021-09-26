@@ -1,15 +1,24 @@
-Git Commit emoji
+## Git Commit emoji
 
-Adapted from (https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+
 
 For full git emoji list see [here](https://gist.github.com/rxaviers/7360908)
 
+### Emojis I use
 
 |   Commit type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
-| Initial commit             | :tada: `:tada:`                               |
-| Refactor code              | :hammer: `:hammer:`                           |
-| Bugfix                     | :bug: `:bug:`                                 |
+| New feature                | :tada: `:tada:`                               |
+| Bugfix                     | :hammer: `:hammer:`                           |
+| Logger change              | :memo: `:memo:`                               |
+| Critical hotfix            | :ambulance: `:ambulance:`                     |
+| Refactoring                | :ok_hand: `:ok_hand:`                         |
+| Verified                   | :white_check_mark: `:white_check_mark:`       |
+
+### Suggestions from [parmentf](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+
+|   Commit type              | Emoji                                         |
+|:---------------------------|:----------------------------------------------|
 | Metadata                   | :card_index: `:card_index:`                   |
 | Version tag                | :bookmark: `:bookmark:`                       |
 | New feature                | :sparkles: `:sparkles:`                       |
@@ -30,7 +39,6 @@ For full git emoji list see [here](https://gist.github.com/rxaviers/7360908)
 | Lint                       | :shirt: `:shirt:`                             |
 | Translation                | :alien: `:alien:`                             |
 | Text                       | :pencil: `:pencil:`                           |
-| Critical hotfix            | :ambulance: `:ambulance:`                     |
 | Deploying stuff            | :rocket: `:rocket:`                           |
 | Fixing on MacOS            | :apple: `:apple:`                             |
 | Fixing on Linux            | :penguin: `:penguin:`                         |
