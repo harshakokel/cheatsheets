@@ -13,7 +13,8 @@ For full git emoji list see [here](https://gist.github.com/rxaviers/7360908)
 | Logger change              | :memo: `:memo:`                               |
 | Critical hotfix            | :ambulance: `:ambulance:`                     |
 | Refactoring                | :ok_hand: `:ok_hand:`                         |
-| Verified                   | :white_check_mark: `:white_check_mark:`       |
+| Verified                   | :white_check_mark: `:white_check_mark:` or :pushpin: `:pushpin:`     |
+| New Experiment             | :test_tube:  `:test_tube:`  or  :thermometer: `:thermometer:`
 
 ### Suggestions from [parmentf](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 
