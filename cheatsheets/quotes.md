@@ -54,3 +54,6 @@ You can disagree without being disagreeable.
 
 The decision whether or not to bear a child is central to a woman’s life, to her well-being and dignity. It is a decision she must make for herself. When the government controls that decision for her, she is being treated as less than a full adult human responsible for her own choices.  
 *— Ruth Bader Ginsburg*
+
+I've found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often.
+*— Brian Tracy*
