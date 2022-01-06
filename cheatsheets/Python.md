@@ -58,9 +58,10 @@ From [bitsurgeon](https://gist.github.com/bitsurgeon/7a2487a0ba03e37f2cc4fe1f2f2
 # check version
 conda --version
 
-# update package
+# update package/conda
 conda update conda
 conda update <package>
+conda update -n base -c defaults conda
 
 # display environment information
 conda info [--envs]
@@ -100,10 +101,13 @@ conda remove -n <env_name> <package>
 conda env export > environment.yml
 conda env create -f environment.yml
 conda env update --file environment.yml
-conda env remove --name <env_name> or conda remove --name <env_name> --all
+conda env remove --name <env_name> 
+conda remove --name <env_name> --all
 
 # remove out-dated packages
 conda clean -a
+
+
 ```
 
 ## environment.yml example
