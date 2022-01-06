@@ -116,6 +116,12 @@ h3. SHELL COMMANDS
 | tr '[:lower:]' '[:upper:]' | translate file characters lower to upper case |
 | tr -d 'char-to-delete' | deletes given characters from file|
 
+
+h3. CENTOS SPECIFIC
+
+| yumdownloader --destdir ./rpm --resolve [package] | Download package rpm without yum |
+| rpm2cpio [package rpm file] <\pipe> cpio -idv | Install package without yum |
+
 h3. PIPES - Allows to combine multiple commands that generate output
 
 | more | Output content delivered in screensize chunks |
