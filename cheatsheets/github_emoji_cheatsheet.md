@@ -11,7 +11,7 @@ For full git emoji list see [here](https://gist.github.com/rxaviers/7360908)
 | New feature                | :tada: `:tada:`                               |
 | Bugfix                     | :hammer: `:hammer:`                           |
 | Logger change              | :memo: `:memo:`                               |
-| Critical hotfix            | :ambulance: `:ambulance:`                     |
+| Critical hotfix            | :fire: `:fire:`                     |
 | Refactoring                | :ok_hand: `:ok_hand:`                         |
 | Verified                   | :white_check_mark: `:white_check_mark:` or :pushpin: `:pushpin:`     |
 | New Experiment             | :test_tube:  `:test_tube:`  or  :thermometer: `:thermometer:`
