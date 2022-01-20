@@ -107,6 +107,8 @@ conda remove --name <env_name> --all
 # remove out-dated packages
 conda clean -a
 
+# disable conda auto-activate
+conda config --set auto_activate_base false
 
 ```
 
