@@ -99,6 +99,11 @@ Most of these shortcuts are for command mode.
 | j | move cursor down |
 | ddkP | to move a line up |
 | ddjP | to move a line down |
+| u | undo |
+| U | undo last line |
+| ctrl+r | redo |
+| G | go to last line |
+| 5gg | go to `5` line | 
 
 more here (https://vim.rtorr.com)
 
