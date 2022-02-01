@@ -8,6 +8,7 @@ Collecting most frequently used cheatsheets here.
    * [Symbols](http://harshakokel.com/pdf/LaTeX-symbols.pdf)
    * [PGF Plots](http://pgfplots.sourceforge.net/pgfplots.pdf)
    * [X Color](https://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/xcolor/xcolor.pdf)
+   * [Tex Emoji](https://unicode.org/emoji/charts/emoji-list.html)
 * [GitHub terminal commands](./cheatsheets/github_cheatsheet.md)
 * [GitHub commit emoji](./cheatsheets/github_emoji_cheatsheet.md)
 * [ssh commands](./cheatsheets/ssh_cheatsheat.org)
