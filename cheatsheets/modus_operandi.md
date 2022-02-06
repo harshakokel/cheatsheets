@@ -1,5 +1,6 @@
 # Ph.D. Modus Operandi
 
+* [Michael Nielsen's blog Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 * [Yobibytes's productive grad school collection](https://yobibyte.github.io/pages/productive-grad-school.html#productive-grad-school)
 * [Littman's style guide](http://cs.brown.edu/~mlittman/etc/style.html)
 * [How to Read a book](https://pne.people.si.umich.edu/PDF/howtoread.pdf)
