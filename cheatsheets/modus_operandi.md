@@ -8,6 +8,8 @@
 * [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 * [Job is what you make it, Amar Bose](https://youtu.be/N2UhSnvOcaE?t=3289)
 * [Powerpoint etiquettes, Sriraam Natarajan](../assets/Powerpoint-Etiquette.ppt)
+* [Productive Project Meetings](https://shomir.net/lab_resources.html#section_procedures)
+* [How to write great research papers](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * CRA Grad Cohort for Women [resources](https://cra.org/cra-wp/grad-cohort-for-women)
   - [A Research Mindset](https://cra.org/cra-wp/wp-content/uploads/sites/8/2021/07/A-Research-Mindset_GC-W21.pdf)
   - [Building Self-Confidence](https://cra.org/cra-wp/wp-content/uploads/sites/8/2019/04/Building-Self-Confidence-2019.pdf)
