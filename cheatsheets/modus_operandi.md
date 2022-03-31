@@ -14,4 +14,5 @@
   - [A Research Mindset](https://cra.org/cra-wp/wp-content/uploads/sites/8/2021/07/A-Research-Mindset_GC-W21.pdf)
   - [Building Self-Confidence](https://cra.org/cra-wp/wp-content/uploads/sites/8/2019/04/Building-Self-Confidence-2019.pdf)
 * Daphne Yao's take on Imposter Syndrome, Danfeng (Daphne) Yao, [Depth and Persistence: What Researchers Need to Know About Impostor Syndrome](https://cacm.acm.org/magazines/2021/6/252839-depth-and-persistence/fulltext), Communications of the ACM, June 2021, Vol. 64 No. 6, Pages 39-42.
+* [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)
 
