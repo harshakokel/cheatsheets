@@ -29,11 +29,21 @@ yellow = "#DEBE1F"
 sns.color_palette([RED, GREEN, BLUE, BLACK])
 ```
 
+Format legend
+```Python
+    ax.legend(markerscale = 2, framealpha=1.0) # For marker size and opacity
+    plt.setp(ax.get_legend().get_texts(), fontsize='22') # for legend text
+    plt.setp(ax.get_legend().get_title(), fontsize='32') # for legend title
+    ax.get_legend().set_title(None) # removes title
+```
+
 custom legend
 For opacity: `framealpha` 
 ```
 plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, title_fontsize=14, framealpha=0.8) 
 ```
+
+
 
 axis and title label and font size
 ```
