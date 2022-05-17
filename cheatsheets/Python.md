@@ -6,6 +6,12 @@ plt.ylim(1, 2)
 plt.xlim(0, 1000)
 ```
 
+Grid
+```python
+ax.grid(True, axis='y') # shows vertical lines in background
+ax.grid(True, axis='x') # shows horizontal lines in background
+```
+
 Format axis
 ```python
 from matplotlib.ticker import FuncFormatter
@@ -24,8 +30,9 @@ sns.color_palette([RED, GREEN, BLUE, BLACK])
 ```
 
 custom legend
+For opacity: `framealpha` 
 ```
-plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, title_fontsize=14)
+plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, title_fontsize=14, framealpha=0.8) 
 ```
 
 axis and title label and font size
