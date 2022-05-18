@@ -35,6 +35,7 @@ Format legend
     plt.setp(ax.get_legend().get_texts(), fontsize='22') # for legend text
     plt.setp(ax.get_legend().get_title(), fontsize='32') # for legend title
     ax.get_legend().set_title(None) # removes title
+    ax.legent().remove(). # removes the legend
 ```
 
 custom legend
@@ -51,6 +52,8 @@ ax.set_title(title, fontsize=20)
 plt.xlabel(xlabel, fontsize=16)
 plt.ylabel(ylabel, fontsize=16)
 ax.set_xticklabels(ax.get_xticks(), fontdict={'fontsize': 16})
+x_labels = ['a', 'b, 'c']
+ax.set_xticklabels(labels=x_labels, fontdict={'fontsize': 16}, rotate=45)
 ax.set_yticklabels(ax.get_yticks(), fontdict={'fontsize': 16})
 ```
 
