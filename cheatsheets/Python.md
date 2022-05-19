@@ -45,7 +45,7 @@ plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, tit
 ```
 
 
-standalone (legend)[https://matplotlib.org/stable/gallery/text_labels_and_annotations/custom_legends.html?highlight=legend]
+standalone [legend](https://matplotlib.org/stable/gallery/text_labels_and_annotations/custom_legends.html?highlight=legend)
 ```
 
 from matplotlib.patches import Patch
