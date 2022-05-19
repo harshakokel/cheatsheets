@@ -45,6 +45,37 @@ plt.legend(title=legend_title, labels=[label1, label2], fontsize=14, ncol=1, tit
 ```
 
 
+standalone (legend)[https://matplotlib.org/stable/gallery/text_labels_and_annotations/custom_legends.html?highlight=legend]
+```
+
+from matplotlib.patches import Patch
+from matplotlib.lines import Line2D
+
+# line plots
+custom_legend=['a','b','c']
+custom_colors = ["#e74c3c","#3592F0","#4BAD6C"]
+legend_elements = [Line2D([0], [0], color=y, lw=5,
+                         label=z) for z, y in zip(custom_legend,custom_colors)]
+
+# markers
+markers=['o',"^",(4,1,45)] # (.,1,.) is a star
+markersize = [8,10,10]
+legend_elements = [Line2D([0], [0],
+                          color='w', 
+                          markerfacecolor=y, 
+                          marker =m,
+                          markersize=s,
+                          label=z)
+                     for z, y, m,s in zip(custom_legend,custom_colors, markers, markersize)]
+
+
+
+# Create the figure
+fig, ax = plt.subplots()
+ax.legend(handles=legend_elements, loc='center', ncol=4, framealpha=1.0)
+plt.savefig('office31_cc_legend.png',dpi=600)
+plt.show()
+```
 
 axis and title label and font size
 ```
