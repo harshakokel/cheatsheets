@@ -27,6 +27,7 @@ git init | Initialize current directory as a new empty git repository
 git remote set-url [remote_name] [remote_url] | Change remote
 git config --global credential.helper store | To update the password on terminal, use this command before git pull
 git clone --recursive [repo url] | To clone submodules while cloning main repo
+git submodule update --init  | To clone submodules after cloning main repo
 git submodule update --remote | to update the submodules
 git submodule sync | to sync .gitmodules with .gitconfig 
 
