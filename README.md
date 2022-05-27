@@ -17,3 +17,4 @@ Collecting most frequently used cheatsheets here.
 * [ML Algorithm](http://harshakokel.com/pdf/ML_cheatsheet.pdf)
 * [Prolog Cheatsheet](https://github.com/alhassy/PrologCheatSheet/blob/master/README.md)
 * [Guide to work, life, and Ph.D.](./cheatsheets/modus_operandi.md)
+* [Adobe Acrobat Commenting shortcuts](https://helpx.adobe.com/acrobat/using/keyboard-shortcuts.html)
