@@ -52,6 +52,15 @@ h3. CORE COMMANDS
 | find [parent folder]/ -name 'A_[0-9]*.txt' |  to find all files with given regex |
 | find [parent folder]/ -name 'A_[0-9]*.txt' -delete | to delete all files with given regex |
 
+
+Comand to append "This is the second line" to every `debug.log` file in the folder
+
+bc. find . -name debug.log -exec sed -i '' '2i\
+  This is the second line
+' {} \;
+
+
+
 h3. COMMAND HISTORY
 
 | history n | Shows the stuff typed - add a number to limit the last n items |
