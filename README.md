@@ -19,3 +19,4 @@ Collecting most frequently used cheatsheets here.
 * [Prolog Cheatsheet](https://github.com/alhassy/PrologCheatSheet/blob/master/README.md)
 * [Guide to work, life, and Ph.D.](./cheatsheets/modus_operandi.md)
 * [Adobe Acrobat Commenting shortcuts](https://helpx.adobe.com/acrobat/using/keyboard-shortcuts.html)
+* [Math Fiction](https://kasmana.people.cofc.edu/MATHFICT)
