@@ -548,6 +548,9 @@ echo ${sounds[dog]} # Dog's sound
 echo ${sounds[@]}   # All values
 echo ${!sounds[@]}  # All keys
 echo ${#sounds[@]}  # Number of elements
+d=dog
+echo ${sounds["$d"]} # Use variable for key
+
 unset sounds[dog]   # Delete dog
 ```
 
