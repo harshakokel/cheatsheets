@@ -51,7 +51,7 @@ h3. CORE COMMANDS
 | echo $? | Print the last value returned |
 | find [parent folder]/ -name 'A_[0-9]*.txt' |  to find all files with given regex |
 | find [parent folder]/ -name 'A_[0-9]*.txt' -delete | to delete all files with given regex |
-
+| awk  '{ total += $2; count++ } END { print total/count }' | Average of 2nd column |
 
 Comand to append "This is the second line" to every `debug.log` file in the folder
 
