@@ -52,6 +52,7 @@ h3. CORE COMMANDS
 | find [parent folder]/ -name 'A_[0-9]*.txt' |  to find all files with given regex |
 | find [parent folder]/ -name 'A_[0-9]*.txt' -delete | to delete all files with given regex |
 | awk  '{ total += $2; count++ } END { print total/count }' | Average of 2nd column |
+| awk  '{x+=$2;y+=$2^2;total += $2} END {printf "$%.2f \\pm %.2f$\n",  total/NR, sqrt(y/NR-(x/NR)^2)}' | Average with Standard Deviation (`$ 2.0 \pm 0.0$`) with AWK. |
 
 Comand to append "This is the second line" to every `debug.log` file in the folder
 
