@@ -169,3 +169,4 @@ h3. USER MANAGEMENT
 | userdel -r username | Delete user and home directory |
 | du -shc /home/* | Check disk space for each user |
 | cat /etc/group  | Check group of each user |
+| usermod -s /bin/bash username | Change default bash for user |
