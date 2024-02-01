@@ -130,7 +130,8 @@ h3. SHELL COMMANDS
 
 | tr '[:lower:]' '[:upper:]' | translate file characters lower to upper case |
 | tr -d 'char-to-delete' | deletes given characters from file|
-
+| git diff --no-index --color-words  <file1> <file2>| find word difference between two file |
+ 
 
 h3. CENTOS SPECIFIC
 
