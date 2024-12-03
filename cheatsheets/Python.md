@@ -35,6 +35,11 @@ Seaborn figure size
 sns.set_theme(rc={'figure.figsize':(17,8)})
 ```
 
+Seaborn rotate axis
+```
+ax.tick_params(axis='x', rotation=90)
+```
+
 Format legend
 ```Python
     ax.legend(markerscale = 2, framealpha=1.0) # For marker size and opacity
