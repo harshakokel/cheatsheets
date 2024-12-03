@@ -29,6 +29,12 @@ yellow = "#DEBE1F"
 sns.color_palette([RED, GREEN, BLUE, BLACK])
 ```
 
+Seaborn figure size
+```
+# For wide gifure
+sns.set_theme(rc={'figure.figsize':(17,8)})
+```
+
 Format legend
 ```Python
     ax.legend(markerscale = 2, framealpha=1.0) # For marker size and opacity
