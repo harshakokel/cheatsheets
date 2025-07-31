@@ -109,7 +109,16 @@ sns set background
 sns.set(font_scale = 2, style="white" )
 ```
 
+Facet Grid
 
+```
+sns.set(font_scale = 2, style="white" )
+ax = sns.catplot(data=total_df, x="value", y="model_name",hue="task_type", col='variable', kind='bar', orient="y", sharex=False, col_wrap=4)
+ax.set_titles("{col_name}")
+ax.set(xlabel=None)
+ax.set(ylabel=None)
+ax.legend.set_title(None)
+```
 
 
 ## conda cheatsheet
