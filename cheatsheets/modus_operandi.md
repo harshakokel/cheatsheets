@@ -17,3 +17,4 @@
 * Daphne Yao's take on Imposter Syndrome, Danfeng (Daphne) Yao, [Depth and Persistence: What Researchers Need to Know About Impostor Syndrome](https://cacm.acm.org/magazines/2021/6/252839-depth-and-persistence/fulltext), Communications of the ACM, June 2021, Vol. 64 No. 6, Pages 39-42.
 * [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)
 * [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
