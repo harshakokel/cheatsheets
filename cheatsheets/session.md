@@ -1,5 +1,5 @@
 
-## Basic
+## Screen
 
 | Description 				| Command 				|
 |---------------------------------------|---------------------------------------|
@@ -14,3 +14,15 @@
 | Accessing a screen that is already attached | `screen -r -d [session name]` |
 | Enable/disable vertical scrolling mode* in a running session		| `Ctrl-a ESC`		|
 
+## TMUX
+
+
+| Description 				| Command 				|
+|---------------------------------------|---------------------------------------|
+| Start a new session with session name | `tmux new -s <mysession>`		|
+| List running sessions / screens	      | `tmux ls`				|
+| Attach to a running session with name	| `tmux -a -t <sessionname>`		|
+| Detach a running session		          | `tmux detach`		|
+| Kill a running session                | `tmux kill-session -a -t  <sessionname>` |
+| Kill an attached session                | `exit` |
+| Kill all sessions             | `tmux kill-server` |
