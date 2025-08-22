@@ -23,4 +23,4 @@
 
 | command | Description |
 |--------|-------|
-| ps afu | awk 'NR>1 {$5=int($5/1024/1024)"G";}{ print $1 " " $2 " " $5}' | print user, process ID and memory consumed in GB| 
+| `ps afu  <pipe> awk 'NR>1 {$5=int($5/1024/1024)"G";}{ print $1 " " $2 " " $5}'` | print user, process ID and memory consumed in GB| 
