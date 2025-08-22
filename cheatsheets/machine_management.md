@@ -16,3 +16,11 @@
 | du -shc /home/* | Check disk space for each user |
 | cat /etc/group  | Check group of each user |
 | usermod -s /bin/bash username | Change default bash for user |
+
+# Process Management
+
+
+
+| command | Description |
+|--------|-------|
+| ps afu | awk 'NR>1 {$5=int($5/1024/1024)"G";}{ print $1 " " $2 " " $5}' | print user, process ID and memory consumed in GB| 
