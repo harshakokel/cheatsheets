@@ -24,5 +24,7 @@
 | Attach to a running session with name	| `tmux -a -t <sessionname>`		|
 | Detach a running session		          | `tmux detach`		|
 | Kill a running session                | `tmux kill-session -a -t  <sessionname>` |
+| Peek into the tmux, without attaching | `tmux capture-pane -pt <sessionname>` |
+| Rename tmux window |  `tmux rename-window -t <oldname> <newname>`|
 | Kill an attached session                | `exit` |
 | Kill all sessions             | `tmux kill-server` |
