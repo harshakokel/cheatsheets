@@ -23,4 +23,4 @@ Collecting most frequently used cheatsheets here.
 * [Adobe Acrobat Commenting shortcuts](https://helpx.adobe.com/acrobat/using/keyboard-shortcuts.html)
 * [Math Fiction](https://kasmana.people.cofc.edu/MATHFICT)
 * [data_exploration_terminal](./cheatsheets/data_exploration_terminal.md)
-* [User and Access Management](./cheatsheets/user.md)
+* [User, Process and Access Management](./cheatsheets/machine_management.md)
