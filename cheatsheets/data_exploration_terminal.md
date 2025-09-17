@@ -1,9 +1,21 @@
 # CSV 
 
 
-**csvtool**
-pip3 install git+https://github.com/maroofi/csvtool.git
+## csvkit
 
+```
+pip install csvkit
+```
+
+| Description | command example | 
+|-------|-----|
+| Stats for a column | csvstat results.csv --columns success |
+
+## csvtool
+
+```
+pip3 install git+https://github.com/maroofi/csvtool.git
+```
 
 | Description | command example | 
 |-------|-----|
