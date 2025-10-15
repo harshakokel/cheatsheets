@@ -13,6 +13,8 @@
 | Rename a session                | `screen -S <session_name> -X sessionname <new_name>` |
 | Accessing a screen that is already attached | `screen -r -d [session name]` |
 | Enable/disable vertical scrolling mode* in a running session		| `Ctrl-a ESC`		|
+| Check jobs running on screen | `jobs -l` |
+
 
 ## TMUX
 
